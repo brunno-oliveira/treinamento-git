@@ -1,5 +1,8 @@
+## [1.3.0]
+- Nova função de cálculo da área do círculo
+
 ## [1.2.0]
-- Nova funoção de cálculo da área do círculo
+- Nova função para o cálculo da área do triangulo
 
 ## [1.1.0]
 - Alteração da função foo
