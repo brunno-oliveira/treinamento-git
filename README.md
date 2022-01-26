@@ -13,4 +13,4 @@
 
     2.1. Criar uma função para para calcular a área do triangulo (base * altura) / 2
 
-    2.2. Criar uma função para para calcular a área do círcuo (3.14 * raio ** 2)
+    2.2. Criar uma função para para calcular a área do círculo (3.14 * raio ** 2)
